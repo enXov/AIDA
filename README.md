@@ -1,3 +1,8 @@
+# ⚠️ WARNING: THIS REPO IS NOW ARCHIVED
+
+**Warning:** If you somehow found this repo, you can continue to use it (I guess).  
+However, my recommendation is to use the advanced version of this repository, the **[ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)** repository.
+
 # 📌 AIDA Installation Guide  
 
 This project contains a plugin developed for **IDA Pro 9.1**. Follow the steps below to complete the installation.  
